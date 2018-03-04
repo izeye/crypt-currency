@@ -6,3 +6,7 @@
 ## YouTube
 * 워치봇 영상가이드
   * https://www.youtube.com/watch?v=kD9Sv-i1GKg
+* 워치봇 지표가이드 1 - MA(Double) 매수매도시점
+  * https://www.youtube.com/watch?v=lLE0OlcG5ZM
+* 워치봇 지표가이드 2 - MA(Double) 파라미터세팅
+  * https://www.youtube.com/watch?v=mn7cqP9VNqg
